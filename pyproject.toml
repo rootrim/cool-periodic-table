@@ -3,8 +3,9 @@ name = "cool-periodic-table"
 version = "0.1.0"
 description = ""
 authors = ["gitrim <omuaz01@gmail.com>"]
-readme = "README.md"
-license = { file = "LICENSE.md", text = "GPL-3.0"}
+readme = ["README.md", "LICENSE.md"]
+license = "GPL-3.0"
+repository = "https://github.com/rootrim/cool-periodic-table"
 
 [tool.poetry.dependencies]
 python = "^3.12"
