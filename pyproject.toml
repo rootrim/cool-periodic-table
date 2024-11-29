@@ -4,6 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["gitrim <omuaz01@gmail.com>"]
 readme = "README.md"
+license = { file = "LICENSE.md", text = "GPL-3.0"}
 
 [tool.poetry.dependencies]
 python = "^3.12"
